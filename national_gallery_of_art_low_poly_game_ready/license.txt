@@ -1,0 +1,11 @@
+Model Information:
+* title:	National Gallery Of Art Low Poly Game Ready
+* source:	https://sketchfab.com/3d-models/national-gallery-of-art-low-poly-game-ready-3303b852a0ea4557ad4d73eb78101cc6
+* author:	Ruslan Malovsky (https://sketchfab.com/malovsky)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "National Gallery Of Art Low Poly Game Ready" (https://sketchfab.com/3d-models/national-gallery-of-art-low-poly-game-ready-3303b852a0ea4557ad4d73eb78101cc6) by Ruslan Malovsky (https://sketchfab.com/malovsky) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
